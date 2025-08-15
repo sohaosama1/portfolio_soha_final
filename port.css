@@ -553,8 +553,8 @@ h3{
 
 }
 
-@media screen and (max-width: 768px) {
-  .profile-pic {
+@media (max-width: 768px) {
+  .my-image-class {
     display: none;
   }
 }
